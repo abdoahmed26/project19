@@ -29,12 +29,12 @@ const Offer = () => {
                                     </h2>
                                     <h4 className='text-titleColor font-secondFont mb-3'>Get 40% Offer</h4>
                                     <p className='text-textColor font-bodyFont'>
-                                        It is a long established fact that a reader will be distracted by the readable content of 
-                                        a page when looking at its normal distribution layout.
+                                        It is a long established fact that a reader will be distracted by the readable content 
+                                        of a page when looking at its normal distribution layout.
                                     </p>
                                     <div className='mt-8'>
                                         <Link className='p-3 px-4 bg-firstColor border border-firstColor rounded-md 
-                                        hover:bg-inherit duration-300 text-titleColor'> 
+                                        hover:bg-inherit hover:text-firstColor duration-300 text-titleColor font-bodyFont'> 
                                             Order Now
                                         </Link>
                                     </div>
@@ -53,12 +53,12 @@ const Offer = () => {
                                     </h2>
                                     <h4 className='text-titleColor font-secondFont mb-3'>Get 40% Offer</h4>
                                     <p className='text-textColor font-bodyFont'>
-                                        It is a long established fact that a reader will be distracted by the readable content of 
-                                        a page when looking at its normal distribution layout.
+                                        It is a long established fact that a reader will be distracted by the readable content 
+                                        of a page when looking at its normal distribution layout.
                                     </p>
                                     <div className='mt-8'>
                                         <Link className='p-3 px-4 bg-firstColor border border-firstColor rounded-md 
-                                        hover:bg-inherit duration-300 text-titleColor'> 
+                                        hover:bg-inherit hover:text-firstColor duration-300 text-titleColor font-bodyFont'> 
                                             Order Now
                                         </Link>
                                     </div>
