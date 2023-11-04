@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500&family=Lobster+Two:wght@400;700&display=swap');
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+.list::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-track {
+    background-color: black;
+}
+.list::-webkit-scrollbar-track{
+    background-color: white;
+}
+::-webkit-scrollbar-thumb{
+    background-color:gray;
+}
+.list::-webkit-scrollbar-thumb {
+    background-color:gray;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.owl-nav {
+    display: none;
+}
+.owl-dots {
+    margin-top: 40px;
+}
+.owl-dots .owl-dot span {
+    background-color: inherit !important;
+    border: 2px solid white !important;
+    width: 12px !important;
+    height: 12px !important;
+    margin: 3px !important;
+}
+.owl-dots .active span {
+    background-color: hsl(27,34%,59%) !important;
+}
